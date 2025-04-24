@@ -1,0 +1,1 @@
+I build this app for learning more about full-stack development , I tried to use Redux , Reliable Auth Systems , Prisma , JWT , RESTful API , Unit Testing and Context API . It was a very educational project that shine in my repository.
